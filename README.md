@@ -1,2 +1,2 @@
 # CP-Templates
-Contains CP templates for various programming platforms
+- Helper.cpp -> Basic C++ template, with fast io and test cases helper
